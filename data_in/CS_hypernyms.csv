@@ -1,0 +1,421 @@
+,term1,term2,hypernymy_relation
+0,artificial intelligence,computer science,0
+1,computer science,machine learning,1
+2,natural language processing,computer science,0
+3,computer science,robotics,1
+4,computer vision,computer science,0
+5,computer science,algorithms,1
+6,cryptography,computer science,0
+7,computer science,network security,1
+8,data structures,computer science,0
+9,computer science,operating systems,1
+10,software engineering,computer science,0
+11,computer science,database management,1
+12,computer graphics,computer science,0
+13,computer science,computer architecture,1
+14,computer science,computer networks,1
+15,computer science,web development,1
+16,computer science,mobile computing,1
+17,computer science,cloud computing,1
+18,computer science,game development,1
+19,distributed systems,computer science,0
+20,natural language processing,artificial intelligence,0
+21,machine learning,artificial intelligence,0
+22,deep learning,artificial intelligence,0
+23,robotics,artificial intelligence,0
+24,automated reasoning,artificial intelligence,0
+25,neural networks,artificial intelligence,0
+26,artificial intelligence,expert systems,1
+27,artificial intelligence,computer vision,1
+28,artificial intelligence,autonomous agents,1
+29,knowledge representation,artificial intelligence,0
+30,artificial intelligence,speech recognition,1
+31,image recognition,artificial intelligence,0
+32,natural language generation,artificial intelligence,0
+33,artificial intelligence,text mining,1
+34,artificial intelligence,reinforcement learning,1
+35,artificial intelligence,genetic algorithms,1
+36,artificial intelligence,fuzzy logic,1
+37,artificial intelligence,planning & scheduling,1
+38,autonomous navigation,artificial intelligence,0
+39,artificial intelligence,game theory,1
+40,supervised learning,machine learning,0
+41,unsupervised learning,machine learning,0
+42,reinforcement learning,machine learning,0
+43,machine learning,neural networks,1
+44,machine learning,deep learning,1
+45,machine learning,bayesian learning,1
+46,support vector machines,machine learning,0
+47,classification,machine learning,0
+48,clustering,machine learning,0
+49,natural language processing,machine learning,0
+50,image recognition,machine learning,0
+51,machine learning,anomaly detection,1
+52,time series analysis,machine learning,0
+53,feature engineering,machine learning,0
+54,hyperparameter tuning,machine learning,0
+55,model selection,machine learning,0
+56,machine learning,dimensionality reduction,1
+57,machine learning,model ensembles,1
+58,transfer learning,machine learning,0
+59,automated machine learning,machine learning,0
+60,text classification,natural language processing,0
+61,natural language processing,text summarization,1
+62,word embeddings,natural language processing,0
+63,natural language processing,document clustering,1
+64,sentiment analysis,natural language processing,0
+65,named entity recognition,natural language processing,0
+66,natural language processing,language modeling,1
+67,machine translation,natural language processing,0
+68,natural language processing,information extraction,1
+69,dialogue systems,natural language processing,0
+70,natural language processing,parts of speech tagging,1
+71,image caption generation,natural language processing,0
+72,natural language processing,text generation,1
+73,semantic parsing,natural language processing,0
+74,natural language processing,speech recognition,1
+75,text clustering,natural language processing,0
+76,natural language processing,topic modeling,1
+77,syntactic parsing,natural language processing,0
+78,natural language processing,coreference resolution,1
+79,natural language processing,knowledge graph construction,1
+80,autonomous robotics,robotics,0
+81,artificial intelligence,robotics,0
+82,robotics,machine learning,1
+83,robotics,computer vision,1
+84,robot manipulators,robotics,0
+85,robotics,motor control,1
+86,robotics,hardware design,1
+87,robotics,mobile robotics,1
+88,human-robot interaction,robotics,0
+89,natural language processing,robotics,0
+90,robot locomotion,robotics,0
+91,swarm robotics,robotics,0
+92,robotics,robot navigation,1
+93,robotics,biologically inspired robotics,1
+94,robotics,robot sensors,1
+95,robotics,cognitive robotics,1
+96,robotic grasping,robotics,0
+97,robot mapping,robotics,0
+98,robotics,mechatronics,1
+99,robot operating system (ros),robotics,0
+100,computer vision,object detection,1
+101,object recognition,computer vision,0
+102,image segmentation,computer vision,0
+103,image processing,computer vision,0
+104,computer vision,feature extraction,1
+105,visual tracking,computer vision,0
+106,image classification,computer vision,0
+107,scene understanding,computer vision,0
+108,image restoration,computer vision,0
+109,computer vision,image matching,1
+110,computer vision,motion analysis,1
+111,3d reconstruction,computer vision,0
+112,visual attention,computer vision,0
+113,facial recognition,computer vision,0
+114,computer vision,image alignment,1
+115,computer vision,image synthesis,1
+116,computer vision,object detection in videos,1
+117,image denoising,computer vision,0
+118,computer vision,image augmentation,1
+119,human pose estimation,computer vision,0
+120,search algorithms,algorithms,0
+121,sorting algorithms,algorithms,0
+122,greedy algorithms,algorithms,0
+123,divide and conquer algorithms,algorithms,0
+124,algorithms,dynamic programming algorithms,1
+125,algorithms,graph algorithms,1
+126,algorithms,backtracking algorithms,1
+127,algorithms,branch and bound algorithms,1
+128,randomized algorithms,algorithms,0
+129,approximation algorithms,algorithms,0
+130,algorithms,pattern matching algorithms,1
+131,algorithms,numerical algorithms,1
+132,algorithms,data structures algorithms,1
+133,algorithms,string matching algorithms,1
+134,algorithms,parallel algorithms,1
+135,ai algorithms,algorithms,0
+136,algorithms,machine learning algorithms,1
+137,algorithms,cryptographic algorithms,1
+138,algorithms,neural network algorithms,1
+139,algorithms,image processing algorithms,1
+140,cryptography,public-key cryptography,1
+141,cryptography,data encryption standard,1
+142,secure socket layer,cryptography,0
+143,cryptography,elliptic curve cryptography,1
+144,cryptography,cryptographic hash functions,1
+145,digital signatures,cryptography,0
+146,symmetric cryptography,cryptography,0
+147,cryptography,block ciphers,1
+148,key management,cryptography,0
+149,cryptography,quantum cryptography,1
+150,cryptanalysis,cryptography,0
+151,cryptography,message authentication codes,1
+152,cryptography,random number generators,1
+153,identity-based encryption,cryptography,0
+154,diffie-hellman key exchange,cryptography,0
+155,cryptography,post-quantum cryptography,1
+156,cryptography,zero-knowledge proofs,1
+157,cryptography,multi-party computation,1
+158,homomorphic encryption,cryptography,0
+159,cryptography,secure multi-party computation,1
+160,firewalls,network security,0
+161,intrusion detection systems,network security,0
+162,network access control,network security,0
+163,network security,virtual private networks,1
+164,network security,data encryption,1
+165,password security,network security,0
+166,network security,network segmentation,1
+167,network security,malware protection,1
+168,network security,network security audits,1
+169,wireless network security,network security,0
+170,endpoint protection,network security,0
+171,network security,application security,1
+172,network security monitoring,network security,0
+173,network security,cloud security,1
+174,identity and access management,network security,0
+175,network security,network address translation,1
+176,physical security,network security,0
+177,network security,cryptography,1
+178,network security,distributed denial of service protection,1
+179,email security,network security,0
+180,data structures,linked lists,1
+181,trees,data structures,0
+182,heaps,data structures,0
+183,data structures,arrays,1
+184,data structures,stack,1
+185,data structures,graphs,1
+186,data structures,priority queues,1
+187,data structures,hashing,1
+188,hash tables,data structures,0
+189,binary search trees,data structures,0
+190,data structures,avl trees,1
+191,data structures,red-black trees,1
+192,data structures,trie,1
+193,segment trees,data structures,0
+194,fenwick trees,data structures,0
+195,disjoint sets,data structures,0
+196,skip lists,data structures,0
+197,b-trees,data structures,0
+198,data structures,b+ trees,1
+199,data structures,splay trees,1
+200,operating systems,process management,1
+201,memory management,operating systems,0
+202,device drivers,operating systems,0
+203,scheduling,operating systems,0
+204,file system,operating systems,0
+205,interrupt handlers,operating systems,0
+206,security,operating systems,0
+207,networking,operating systems,0
+208,virtualization,operating systems,0
+209,operating systems,system utilities,1
+210,system calls,operating systems,0
+211,system startup,operating systems,0
+212,operating systems,data structures,1
+213,multitasking,operating systems,0
+214,deadlocks,operating systems,0
+215,operating systems,device management,1
+216,distributed systems,operating systems,0
+217,performance tuning,operating systems,0
+218,operating systems,reliability,1
+219,operating system design principles,operating systems,0
+220,software design,software engineering,0
+221,software engineering,user interface design,1
+222,software requirements,software engineering,0
+223,software testing,software engineering,0
+224,software project management,software engineering,0
+225,software engineering,software maintenance,1
+226,software verification and validation,software engineering,0
+227,software engineering,software architecture,1
+228,software quality assurance,software engineering,0
+229,software engineering,software security,1
+230,software metrics,software engineering,0
+231,software configuration management,software engineering,0
+232,software engineering,software reengineering,1
+233,software project estimation,software engineering,0
+234,software engineering,software reliability,1
+235,software development process,software engineering,0
+236,software engineering,software documentation,1
+237,software development tools,software engineering,0
+238,software engineering paradigms,software engineering,0
+239,software development methodologies,software engineering,0
+240,database management,data modeling,1
+241,database design,database management,0
+242,database management,database normalization,1
+243,data storage and retrieval,database management,0
+244,database management,database security,1
+245,data integrity,database management,0
+246,database management,data manipulation language,1
+247,database management,structured query language,1
+248,database administration,database management,0
+249,database management,indexing and hashing,1
+250,database management,backup and recovery,1
+251,database management,data warehousing,1
+252,data mining,database management,0
+253,database management,database tuning,1
+254,transaction processing,database management,0
+255,database management,object-relational database management systems,1
+256,distributed databases,database management,0
+257,database management,nosql databases,1
+258,cloud databases,database management,0
+259,database management,big data analytics,1
+260,computer graphics,3d modelling,1
+261,animation,computer graphics,0
+262,computer graphics,rendering,1
+263,texturing,computer graphics,0
+264,computer graphics,image processing,1
+265,shading,computer graphics,0
+266,computer graphics,modeling techniques,1
+267,image synthesis,computer graphics,0
+268,computer graphics,ray tracing,1
+269,lighting,computer graphics,0
+270,virtual reality,computer graphics,0
+271,game design,computer graphics,0
+272,motion capture,computer graphics,0
+273,computer graphics,visual storytelling,1
+274,visual effects,computer graphics,0
+275,computer graphics,user interface design,1
+276,computer graphics,augmented reality,1
+277,computer graphics,image manipulation,1
+278,computer graphics,visualization,1
+279,video compression,computer graphics,0
+280,pipelining,computer architecture,0
+281,cache memory,computer architecture,0
+282,computer architecture,virtual memory,1
+283,computer architecture,instruction set architecture,1
+284,data path design,computer architecture,0
+285,physical memory organization,computer architecture,0
+286,computer architecture,memory hierarchy,1
+287,multi-core processors,computer architecture,0
+288,computer system interconnects,computer architecture,0
+289,computer architecture,memory controllers,1
+290,computer architecture,system bus,1
+291,floating point arithmetic,computer architecture,0
+292,computer architecture,risc and cisc processors,1
+293,computer architecture,instruction level parallelism,1
+294,computer architecture,network interface design,1
+295,vector processing,computer architecture,0
+296,computer architecture,branch prediction,1
+297,computer architecture,memory protection,1
+298,computer architecture,power efficiency,1
+299,computer architecture,memory latency optimization,1
+300,network security,computer networks,0
+301,computer networks,network topology,1
+302,network protocols,computer networks,0
+303,computer networks,network devices,1
+304,computer networks,network cabling,1
+305,computer networks,network addressing,1
+306,computer networks,network architecture,1
+307,computer networks,network switching,1
+308,network routing,computer networks,0
+309,network performance,computer networks,0
+310,computer networks,network monitoring,1
+311,network congestion control,computer networks,0
+312,computer networks,network packet switching,1
+313,computer networks,network access control,1
+314,computer networks,network load balancing,1
+315,computer networks,network firewalls,1
+316,computer networks,network quality of service,1
+317,computer networks,network troubleshooting,1
+318,network virtualization,computer networks,0
+319,network design and implementation,computer networks,0
+320,web development,front-end development,1
+321,back-end development,web development,0
+322,database development,web development,0
+323,web design,web development,0
+324,mobile development,web development,0
+325,web development,web security,1
+326,web performance optimization,web development,0
+327,user experience design,web development,0
+328,web development,web programming,1
+329,web development,content management systems,1
+330,search engine optimization,web development,0
+331,web development,responsive design,1
+332,web development,web accessibility,1
+333,web application development,web development,0
+334,web development,e-commerce development,1
+335,server configuration,web development,0
+336,api development,web development,0
+337,web development,graphic design,1
+338,cloud computing,web development,0
+339,web development,testing & debugging,1
+340,mobile computing,wearable computing,1
+341,mobile payments,mobile computing,0
+342,mobile computing,location-based services,1
+343,mobile computing,mobile app development,1
+344,mobile computing,mobile cloud computing,1
+345,mobile device management,mobile computing,0
+346,augmented reality,mobile computing,0
+347,mobile computing,mobile security,1
+348,mobile advertising,mobile computing,0
+349,mobile computing,near field communication,1
+350,mobile computing,internet of things,1
+351,mobile video streaming,mobile computing,0
+352,mobile gaming,mobile computing,0
+353,voice recognition,mobile computing,0
+354,mobile networking,mobile computing,0
+355,mobile operating systems,mobile computing,0
+356,mobile device forensics,mobile computing,0
+357,mobile device virtualization,mobile computing,0
+358,mobile computing,mobile web development,1
+359,5g network technologies,mobile computing,0
+360,cloud computing,cloud infrastructure,1
+361,cloud computing,cloud storage,1
+362,cloud computing,cloud security,1
+363,cloud computing platforms,cloud computing,0
+364,cloud computing,cloud networking,1
+365,cloud automation,cloud computing,0
+366,cloud migration,cloud computing,0
+367,cloud computing,cloud disaster recovery,1
+368,cloud analytics,cloud computing,0
+369,cloud computing,cloud monitoring,1
+370,cloud computing,cloud application development,1
+371,cloud computing,cloud computing cost optimization,1
+372,cloud governance,cloud computing,0
+373,cloud data management,cloud computing,0
+374,cloud computing,cloud computing scalability,1
+375,cloud computing,cloud virtualization,1
+376,cloud backup and recovery,cloud computing,0
+377,cloud computing,cloud service level agreements,1
+378,cloud computing,cloud service brokerage,1
+379,cloud computing,cloud computing compliance,1
+380,game design,game development,0
+381,programming,game development,0
+382,artificial intelligence,game development,0
+383,animation,game development,0
+384,physics,game development,0
+385,game development,networking,1
+386,storytelling,game development,0
+387,user interface design,game development,0
+388,game development,level design,1
+389,audio design,game development,0
+390,game development,character design,1
+391,asset creation,game development,0
+392,3d modeling,game development,0
+393,quality assurance,game development,0
+394,data analytics,game development,0
+395,game development,project management,1
+396,game development,game engines,1
+397,game development,post-release support,1
+398,game development,localization,1
+399,game development,monetization,1
+400,replication,distributed systems,0
+401,fault tolerance,distributed systems,0
+402,distributed systems,consensus protocols,1
+403,networking protocols,distributed systems,0
+404,distributed systems,load balancing,1
+405,distributed systems,distributed file systems,1
+406,scalability,distributed systems,0
+407,distributed systems,security,1
+408,distributed systems,monitoring,1
+409,resource allocation,distributed systems,0
+410,distributed systems,parallel computing,1
+411,distributed systems,synchronization,1
+412,distributed systems,leader election,1
+413,transactional consistency,distributed systems,0
+414,distributed systems,data partitioning,1
+415,data replication,distributed systems,0
+416,distributed systems,asynchronous messaging,1
+417,publish-subscribe system,distributed systems,0
+418,distributed systems,grid computing,1
+419,distributed queues,distributed systems,0
